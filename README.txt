@@ -18,3 +18,4 @@ Este proyecto utiliza técnicas de inteligencia artificial para clasificar imág
 
 ### 📑 Autor
 Mario Efraín — 2025
+Carlos Isla — 2025
